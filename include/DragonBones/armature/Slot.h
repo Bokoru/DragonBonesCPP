@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_SLOT_H
 #define DRAGONBONES_SLOT_H
 
-#include "TransformObject.h"
+#include <DragonBones/armature/TransformObject.h>
 
 #include <DragonBones/geom/ColorTransform.h>
 #include <DragonBones/model/ArmatureData.h>
