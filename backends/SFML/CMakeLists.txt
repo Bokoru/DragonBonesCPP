@@ -1,5 +1,5 @@
 
-find_package(SFML 3.0.2 COMPONENTS Graphics System REQUIRED)
+find_package(SFML 3.0.2 COMPONENTS Graphics REQUIRED)
 
 add_library(DragonBones_SFML STATIC
     "src/SFMLArmatureDisplay.cpp" "include/DragonBones/SFML/SFMLArmatureDisplay.h"
