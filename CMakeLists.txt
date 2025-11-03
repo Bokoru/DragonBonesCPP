@@ -70,3 +70,8 @@ target_include_directories(DragonBones PUBLIC "include")
 
 # Link against third party libraries.
 target_link_libraries(DragonBones PUBLIC RapidJSON)
+
+# Compile backends
+if (DRAGONBONES_BACKEND_OPENGL)
+    add_subdirectory("backends/OpenGL")
+endif ()
