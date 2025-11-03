@@ -1,4 +1,4 @@
-#include "BaseObject.h"
+#include <DragonBones/core/BaseObject.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 unsigned BaseObject::_hashCode = 0;

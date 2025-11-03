@@ -1,5 +1,4 @@
-#include "BaseFactory.h"
-
+#include <DragonBones/factory/BaseFactory.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 JSONDataParser BaseFactory::_jsonParser;

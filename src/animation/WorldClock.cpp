@@ -1,5 +1,4 @@
-#include "WorldClock.h"
-
+#include <DragonBones/animation/WorldClock.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 WorldClock WorldClock::clock;

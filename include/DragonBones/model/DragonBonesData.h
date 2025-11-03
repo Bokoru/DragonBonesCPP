@@ -23,8 +23,8 @@
 #ifndef DRAGONBONES_DRAGONBONES_DATA_H
 #define DRAGONBONES_DRAGONBONES_DATA_H
 
-#include "../core/BaseObject.h"
-#include "ArmatureData.h"
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/model/ArmatureData.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

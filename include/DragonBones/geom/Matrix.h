@@ -23,9 +23,9 @@
 #ifndef DRAGONBONES_MATRIX_H
 #define DRAGONBONES_MATRIX_H
 
-#include "../core/DragonBones.h"
-#include "Point.h"
-#include "Rectangle.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/geom/Point.h>
+#include <DragonBones/geom/Rectangle.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

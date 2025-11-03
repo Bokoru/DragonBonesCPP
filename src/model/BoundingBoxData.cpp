@@ -1,8 +1,5 @@
-
-#include "BoundingBoxData.h"
-#include "DisplayData.h"
-
-
+#include <DragonBones/model/BoundingBoxData.h>
+#include <DragonBones/model/DisplayData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void BoundingBoxData::_onClear()

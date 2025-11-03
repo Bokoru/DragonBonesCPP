@@ -1,7 +1,6 @@
-#include "AnimationData.h"
-#include "ArmatureData.h"
-#include "ConstraintData.h"
-
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/ConstraintData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void AnimationData::_onClear()

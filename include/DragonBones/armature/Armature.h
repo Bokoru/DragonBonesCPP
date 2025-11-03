@@ -23,10 +23,10 @@
 #ifndef DRAGONBONES_ARMATURE_H
 #define DRAGONBONES_ARMATURE_H
 
-#include "../core/BaseObject.h"
-#include "../animation/IAnimatable.h"
-#include "../model/ArmatureData.h"
-#include "IArmatureProxy.h"
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/animation/IAnimatable.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/armature/IArmatureProxy.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

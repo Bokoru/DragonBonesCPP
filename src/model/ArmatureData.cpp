@@ -1,12 +1,11 @@
-#include "ArmatureData.h"
-#include "UserData.h"
-#include "DragonBonesData.h"
-#include "ConstraintData.h"
-#include "CanvasData.h"
-#include "SkinData.h"
-#include "DisplayData.h"
-#include "AnimationData.h"
-
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/ConstraintData.h>
+#include <DragonBones/model/CanvasData.h>
+#include <DragonBones/model/SkinData.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/AnimationData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void ArmatureData::_onClear()

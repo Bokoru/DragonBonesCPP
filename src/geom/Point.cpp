@@ -1,5 +1,4 @@
-#include "Point.h"
-
+#include <DragonBones/geom/Point.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 Point Point::helpPointA;

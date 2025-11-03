@@ -23,9 +23,8 @@
 #ifndef DRAGONBONESCPP_BOUNDINGBOXDATA_H
 #define DRAGONBONESCPP_BOUNDINGBOXDATA_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Point.h"
-
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Point.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * - The base class of bounding box data.

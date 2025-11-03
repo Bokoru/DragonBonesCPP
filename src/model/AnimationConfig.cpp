@@ -1,7 +1,6 @@
-#include "AnimationConfig.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-
+#include <DragonBones/model/AnimationConfig.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void AnimationConfig::_onClear()

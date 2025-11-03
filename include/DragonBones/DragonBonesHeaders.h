@@ -4,7 +4,7 @@
  * Copyright (c) 2012-2018 DragonBones team and other contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy of
- * this software and associated documentation files (the "Software"), to deal in
+ * this software and associated documentation files (the >Software>), to deal in
  * the Software without restriction, including without limitation the rights to
  * use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
  * the Software, and to permit persons to whom the Software is furnished to do so,
@@ -13,7 +13,7 @@
  * The above copyright notice and this permission notice shall be included in all
  * copies or substantial portions of the Software.
  * 
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * THE SOFTWARE IS PROVIDED >AS IS>, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
  * FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
  * COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
@@ -24,59 +24,59 @@
 #define DRAGONBONES_HEADERS_H
 
 // core
-#include "core/DragonBones.h"
-#include "core/BaseObject.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/core/BaseObject.h>
 
 // geom
-#include "geom/Matrix.h"
-#include "geom/Transform.h"
-#include "geom/ColorTransform.h"
-#include "geom/Point.h"
-#include "geom/Rectangle.h"
+#include <DragonBones/geom/Matrix.h>
+#include <DragonBones/geom/Transform.h>
+#include <DragonBones/geom/ColorTransform.h>
+#include <DragonBones/geom/Point.h>
+#include <DragonBones/geom/Rectangle.h>
 
 // model
-#include "model/TextureAtlasData.h"
-#include "model/UserData.h"
-#include "model/DragonBonesData.h"
-#include "model/ArmatureData.h"
-#include "model/ConstraintData.h"
-#include "model/CanvasData.h"
-#include "model/SkinData.h"
-#include "model/DisplayData.h"
-#include "model/BoundingBoxData.h"
-#include "model/AnimationData.h"
-#include "model/AnimationConfig.h"
+#include <DragonBones/model/TextureAtlasData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/ConstraintData.h>
+#include <DragonBones/model/CanvasData.h>
+#include <DragonBones/model/SkinData.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/BoundingBoxData.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/model/AnimationConfig.h>
 
 // armature
-#include "armature/IArmatureProxy.h"
-#include "armature/Armature.h"
-#include "armature/TransformObject.h"
-#include "armature/Bone.h"
-#include "armature/Slot.h"
-#include "armature/Constraint.h"
-#include "armature/DeformVertices.h"
+#include <DragonBones/armature/IArmatureProxy.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/TransformObject.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/armature/Constraint.h>
+#include <DragonBones/armature/DeformVertices.h>
 
 // animation
-#include "animation/IAnimatable.h"
-#include "animation/WorldClock.h"
-#include "animation/Animation.h"
-#include "animation/AnimationState.h"
-#include "animation/BaseTimelineState.h"
-#include "animation/TimelineState.h"
+#include <DragonBones/animation/IAnimatable.h>
+#include <DragonBones/animation/WorldClock.h>
+#include <DragonBones/animation/Animation.h>
+#include <DragonBones/animation/AnimationState.h>
+#include <DragonBones/animation/BaseTimelineState.h>
+#include <DragonBones/animation/TimelineState.h>
 
 // event
-#include "event/EventObject.h"
-#include "event/IEventDispatcher.h"
+#include <DragonBones/event/EventObject.h>
+#include <DragonBones/event/IEventDispatcher.h>
 
 #ifndef EGRET_WASM
 
 // parser
-#include "parser/DataParser.h"
-#include "parser/JSONDataParser.h"
-#include "parser/BinaryDataParser.h"
+#include <DragonBones/parser/DataParser.h>
+#include <DragonBones/parser/JSONDataParser.h>
+#include <DragonBones/parser/BinaryDataParser.h>
 
 // factory
-#include "factory/BaseFactory.h"
+#include <DragonBones/factory/BaseFactory.h>
 #endif // EGRET_WASM
 
 #endif // DRAGONBONES_HEADERS_H

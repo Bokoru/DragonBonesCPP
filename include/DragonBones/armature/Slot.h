@@ -25,8 +25,8 @@
 
 #include "TransformObject.h"
 
-#include "../geom/ColorTransform.h"
-#include "../model/ArmatureData.h"
+#include <DragonBones/geom/ColorTransform.h>
+#include <DragonBones/model/ArmatureData.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

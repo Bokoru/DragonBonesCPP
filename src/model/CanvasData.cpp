@@ -1,5 +1,4 @@
-#include "CanvasData.h"
-
+#include <DragonBones/model/CanvasData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void CanvasData::_onClear()

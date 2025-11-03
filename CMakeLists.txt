@@ -5,10 +5,12 @@ project (DragonBones)
 option(DRAGONBONES_BACKEND_OPENGL "Compile the OpenGL backend" ON)
 
 # Third Party Packages
-find_package(simdjson CONFIG REQUIRED)
+find_package(RapidJSON CONFIG REQUIRED)
 
 # DragonBones static library
 add_library(DragonBones STATIC
+    "include/DragonBones/DragonBonesHeaders.h"
+
     # Animation
     "src/animation/Animation.cpp" "include/DragonBones/animation/Animation.h"
     "src/animation/AnimationState.cpp" "include/DragonBones/animation/AnimationState.h"
@@ -67,4 +69,4 @@ add_library(DragonBones STATIC
 target_include_directories(DragonBones PUBLIC "include")
 
 # Link against third party libraries.
-target_link_libraries(DragonBones PUBLIC simdjson::simdjson)
+target_link_libraries(DragonBones PUBLIC RapidJSON)

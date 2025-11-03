@@ -1,5 +1,4 @@
-#include "BinaryDataParser.h"
-
+#include <DragonBones/parser/BinaryDataParser.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 TimelineData* BinaryDataParser::_parseBinaryTimeline(TimelineType type, unsigned offset, TimelineData* timelineData)

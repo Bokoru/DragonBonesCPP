@@ -23,8 +23,7 @@
 #ifndef DRAGONBONES_BINARY_DATA_PARSER_H
 #define DRAGONBONES_BINARY_DATA_PARSER_H
 
-#include "JSONDataParser.h"
-
+#include <DragonBones/parser/JSONDataParser.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 /**

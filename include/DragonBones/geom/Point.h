@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_POINT_H
 #define DRAGONBONES_POINT_H
 
-#include "../core/DragonBones.h"
+#include <DragonBones/core/DragonBones.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

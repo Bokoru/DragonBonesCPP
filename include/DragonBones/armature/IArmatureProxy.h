@@ -23,8 +23,8 @@
 #ifndef DRAGONBONES_IARMATURE_PROXY_H
 #define DRAGONBONES_IARMATURE_PROXY_H
 
-#include "../core/DragonBones.h"
-#include "../event/IEventDispatcher.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/event/IEventDispatcher.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

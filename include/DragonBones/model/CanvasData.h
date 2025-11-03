@@ -23,9 +23,8 @@
 #ifndef DRAGONBONES_CANVAS_DATA_H
 #define DRAGONBONES_CANVAS_DATA_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Rectangle.h"
-
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Rectangle.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * @internal

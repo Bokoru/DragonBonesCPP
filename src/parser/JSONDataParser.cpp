@@ -1,5 +1,4 @@
-#include "JSONDataParser.h"
-
+#include <DragonBones/parser/JSONDataParser.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void JSONDataParser::_getCurvePoint(

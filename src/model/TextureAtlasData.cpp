@@ -1,5 +1,4 @@
-#include "TextureAtlasData.h"
-
+#include <DragonBones/model/TextureAtlasData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void TextureAtlasData::_onClear()

@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_EVENT_OBJECT_H
 #define DRAGONBONES_EVENT_OBJECT_H
 
-#include "../core/BaseObject.h"
+#include <DragonBones/core/BaseObject.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

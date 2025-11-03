@@ -23,8 +23,8 @@
 #ifndef DRAGONBONES_WORLD_CLOCK_H
 #define DRAGONBONES_WORLD_CLOCK_H
 
-#include "../core/DragonBones.h"
-#include "IAnimatable.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/animation/IAnimatable.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

@@ -1,6 +1,6 @@
-#include "EventObject.h"
-#include "../model/UserData.h"
-#include "../armature/Armature.h"
+#include <DragonBones/event/EventObject.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/armature/Armature.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

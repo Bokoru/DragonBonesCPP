@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_DEFORMVERTICES_H
 #define DRAGONBONES_DEFORMVERTICES_H
 
-#include "../core/BaseObject.h"
+#include <DragonBones/core/BaseObject.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

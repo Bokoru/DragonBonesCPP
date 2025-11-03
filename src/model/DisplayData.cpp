@@ -2,10 +2,9 @@
 // Created by liangshuochen on 08/06/2017.
 //
 
-#include "DisplayData.h"
-#include "UserData.h"
-#include "BoundingBoxData.h"
-
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/BoundingBoxData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void VerticesData::clear()

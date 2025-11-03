@@ -1,20 +1,20 @@
-#include "TimelineState.h"
-#include "WorldClock.h"
-#include "Animation.h"
-#include "../model/DragonBonesData.h"
-#include "../model/UserData.h"
-#include "../model/ArmatureData.h"
-#include "../model/ConstraintData.h"
-#include "../model/DisplayData.h"
-#include "../model/AnimationData.h"
-#include "../event/EventObject.h"
-#include "../event/IEventDispatcher.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-#include "../armature/Slot.h"
-#include "../armature/Constraint.h"
-#include "../armature/DeformVertices.h"
-#include "AnimationState.h"
+#include <DragonBones/animation/TimelineState.h>
+#include <DragonBones/animation/WorldClock.h>
+#include <DragonBones/animation/Animation.h>
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/ConstraintData.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/event/EventObject.h>
+#include <DragonBones/event/IEventDispatcher.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/armature/Constraint.h>
+#include <DragonBones/armature/DeformVertices.h>
+#include <DragonBones/animation/AnimationState.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

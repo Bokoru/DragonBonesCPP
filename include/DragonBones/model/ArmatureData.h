@@ -23,12 +23,11 @@
 #ifndef DRAGONBONES_ARMATURE_DATA_H
 #define DRAGONBONES_ARMATURE_DATA_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Matrix.h"
-#include "../geom/Transform.h"
-#include "../geom/ColorTransform.h"
-#include "../geom/Rectangle.h"
-
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Matrix.h>
+#include <DragonBones/geom/Transform.h>
+#include <DragonBones/geom/ColorTransform.h>
+#include <DragonBones/geom/Rectangle.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * - The armature data.

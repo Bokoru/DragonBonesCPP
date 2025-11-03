@@ -23,8 +23,7 @@
 #ifndef DRAGONBONES_ANIMATION_CONFIG_H
 #define DRAGONBONES_ANIMATION_CONFIG_H
 
-#include "../core/BaseObject.h"
-
+#include <DragonBones/core/BaseObject.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * - The animation config is used to describe all the information needed to play an animation state.

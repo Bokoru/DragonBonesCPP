@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_COLOR_TRANSFORM_H
 #define DRAGONBONES_COLOR_TRANSFORM_H
 
-#include "../core/DragonBones.h"
+#include <DragonBones/core/DragonBones.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

@@ -23,8 +23,8 @@
 #ifndef DRAGONBONES_ANIMATION_STATE_H
 #define DRAGONBONES_ANIMATION_STATE_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Transform.h"
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Transform.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

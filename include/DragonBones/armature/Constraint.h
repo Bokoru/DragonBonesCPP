@@ -27,12 +27,12 @@
 #ifndef DRAGONBONESCPP_CONSTRAINTS_H
 #define DRAGONBONESCPP_CONSTRAINTS_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Matrix.h"
-#include "../geom/Transform.h"
-#include "../geom/Point.h"
-#include "../model/ArmatureData.h"
-#include "../model/ConstraintData.h"
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Matrix.h>
+#include <DragonBones/geom/Transform.h>
+#include <DragonBones/geom/Point.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/ConstraintData.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

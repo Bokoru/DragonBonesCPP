@@ -1,15 +1,15 @@
-#include "AnimationState.h"
-#include "WorldClock.h"
-#include "../model/DisplayData.h"
-#include "../model/AnimationConfig.h"
-#include "../model/AnimationData.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-#include "../armature/Slot.h"
-#include "../armature/Constraint.h"
-#include "../event/EventObject.h"
-#include "../event/IEventDispatcher.h"
-#include "TimelineState.h"
+#include <DragonBones/animation/AnimationState.h>
+#include <DragonBones/animation/WorldClock.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/AnimationConfig.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/armature/Constraint.h>
+#include <DragonBones/event/EventObject.h>
+#include <DragonBones/event/IEventDispatcher.h>
+#include <DragonBones/animation/TimelineState.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

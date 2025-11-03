@@ -2,8 +2,7 @@
 // Created by liangshuochen on 09/06/2017.
 //
 
-#include "ConstraintData.h"
-
+#include <DragonBones/model/ConstraintData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void ConstraintData::_onClear()

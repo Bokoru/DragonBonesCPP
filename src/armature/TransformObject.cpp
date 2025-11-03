@@ -2,7 +2,7 @@
 // Created by liangshuochen on 12/06/2017.
 //
 
-#include "TransformObject.h"
+#include <DragonBones/armature/TransformObject.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

@@ -23,9 +23,9 @@
 #ifndef DRAGONBONES_TRANSFORM_OBJECT_H
 #define DRAGONBONES_TRANSFORM_OBJECT_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Matrix.h"
-#include "../geom/Transform.h"
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Matrix.h>
+#include <DragonBones/geom/Transform.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

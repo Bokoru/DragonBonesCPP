@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_IEVENT_DISPATCHER_H
 #define DRAGONBONES_IEVENT_DISPATCHER_H
 
-#include "../core/DragonBones.h"
+#include <DragonBones/core/DragonBones.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

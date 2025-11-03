@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_USER_DATA_H
 #define DRAGONBONES_USER_DATA_H
 
-#include "../core/BaseObject.h"
+#include <DragonBones/core/BaseObject.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

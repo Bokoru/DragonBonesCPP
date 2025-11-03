@@ -23,8 +23,7 @@
 #ifndef DRAGONBONES_TIMELINE_STATE_H
 #define DRAGONBONES_TIMELINE_STATE_H
 
-#include "BaseTimelineState.h"
-
+#include <DragonBones/animation/BaseTimelineState.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * @internal

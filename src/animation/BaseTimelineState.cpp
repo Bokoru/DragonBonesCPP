@@ -1,12 +1,12 @@
-#include "BaseTimelineState.h"
-#include "../model/DragonBonesData.h"
-#include "../model/ArmatureData.h"
-#include "../model/AnimationData.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-#include "../armature/Slot.h"
-#include "AnimationState.h"
-#include "TimelineState.h"
+#include <DragonBones/animation/BaseTimelineState.h>
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/animation/AnimationState.h>
+#include <DragonBones/animation/TimelineState.h>
 
 #include <math.h>
 

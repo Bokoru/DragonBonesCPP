@@ -23,8 +23,8 @@
 #ifndef DRAGONBONES_TRANSFORM_H
 #define DRAGONBONES_TRANSFORM_H
 
-#include "../core/DragonBones.h"
-#include "Matrix.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/geom/Matrix.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

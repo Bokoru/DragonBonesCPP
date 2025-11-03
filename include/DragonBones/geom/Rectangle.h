@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_RECTANGLE_H
 #define DRAGONBONES_RECTANGLE_H
 
-#include "../core/DragonBones.h"
+#include <DragonBones/core/DragonBones.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

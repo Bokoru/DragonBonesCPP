@@ -1,8 +1,6 @@
-#include "DragonBonesData.h"
-#include "UserData.h"
-#include "ArmatureData.h"
-
-
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/ArmatureData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void DragonBonesData::_onClear()

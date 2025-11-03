@@ -23,13 +23,13 @@
 #ifndef DRAGONBONES_BASE_FACTORY_H
 #define DRAGONBONES_BASE_FACTORY_H
 
-#include "../parser/JSONDataParser.h"
-#include "../parser/BinaryDataParser.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-#include "../armature/Slot.h"
-#include "../armature/Constraint.h"
-#include "../animation/Animation.h"
+#include <DragonBones/parser/JSONDataParser.h>
+#include <DragonBones/parser/BinaryDataParser.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/armature/Constraint.h>
+#include <DragonBones/animation/Animation.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

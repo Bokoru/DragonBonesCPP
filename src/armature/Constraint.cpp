@@ -2,9 +2,9 @@
 // Created by liangshuochen on 12/06/2017.
 //
 
-#include "Constraint.h"
-#include "Armature.h"
-#include "Bone.h"
+#include <DragonBones/armature/Constraint.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

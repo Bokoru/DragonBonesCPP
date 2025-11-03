@@ -23,8 +23,7 @@
 #ifndef DRAGONBONES_ANIMATION_DATA_H
 #define DRAGONBONES_ANIMATION_DATA_H
 
-#include "ArmatureData.h"
-
+#include <DragonBones/model/ArmatureData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * - The animation data.

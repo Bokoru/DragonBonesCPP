@@ -23,7 +23,7 @@
 #ifndef DRAGONBONES_ANIMATION_H
 #define DRAGONBONES_ANIMATION_H
 
-#include "../core/BaseObject.h"
+#include <DragonBones/core/BaseObject.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

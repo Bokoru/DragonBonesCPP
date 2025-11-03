@@ -1,11 +1,11 @@
-#include "Animation.h"
-#include "../model/DisplayData.h"
-#include "../model/AnimationConfig.h"
-#include "../model/AnimationData.h"
-#include "../armature/Armature.h"
-#include "../armature/Bone.h"
-#include "../armature/Slot.h"
-#include "AnimationState.h"
+#include <DragonBones/animation/Animation.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/AnimationConfig.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/armature/Bone.h>
+#include <DragonBones/armature/Slot.h>
+#include <DragonBones/animation/AnimationState.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

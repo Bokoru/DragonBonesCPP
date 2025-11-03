@@ -1,6 +1,5 @@
-#include "SkinData.h"
-#include "DisplayData.h"
-
+#include <DragonBones/model/SkinData.h>
+#include <DragonBones/model/DisplayData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 void SkinData::_onClear()

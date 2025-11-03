@@ -23,10 +23,9 @@
 #ifndef DRAGONBONESCPP_DISPLAYDATA_H
 #define DRAGONBONESCPP_DISPLAYDATA_H
 
-#include "../core/BaseObject.h"
-#include "../geom/Transform.h"
-#include "BoundingBoxData.h"
-
+#include <DragonBones/core/BaseObject.h>
+#include <DragonBones/geom/Transform.h>
+#include <DragonBones/model/BoundingBoxData.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * @internal

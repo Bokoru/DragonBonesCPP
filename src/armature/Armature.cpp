@@ -1,9 +1,9 @@
 #include "Armature.h"
-#include "../model/TextureAtlasData.h"
-#include "../model/UserData.h"
-#include "../animation/WorldClock.h"
-#include "../animation/Animation.h"
-#include "../event/EventObject.h"
+#include <DragonBones/model/TextureAtlasData.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/animation/WorldClock.h>
+#include <DragonBones/animation/Animation.h>
+#include <DragonBones/event/EventObject.h>
 #include "IArmatureProxy.h"
 #include "Bone.h"
 #include "Slot.h"

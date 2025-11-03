@@ -1,9 +1,9 @@
-#include "DragonBones.h"
-#include "../armature/Armature.h"
-#include "../animation/WorldClock.h"
-#include "../animation/Animation.h"
-#include "../event/EventObject.h"
-#include "../event/IEventDispatcher.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/armature/Armature.h>
+#include <DragonBones/animation/WorldClock.h>
+#include <DragonBones/animation/Animation.h>
+#include <DragonBones/event/EventObject.h>
+#include <DragonBones/event/IEventDispatcher.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

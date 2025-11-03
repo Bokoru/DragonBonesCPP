@@ -1,8 +1,8 @@
 #ifndef DRAGONBONES_JSON_DATA_PARSER_H
 #define DRAGONBONES_JSON_DATA_PARSER_H
 
-#include "DataParser.h"
-// #include "rapidjson/document.h"
+#include <DragonBones/parser/DataParser.h>
+#include <rapidjson/document.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 

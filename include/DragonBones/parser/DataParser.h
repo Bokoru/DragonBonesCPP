@@ -23,17 +23,17 @@
 #ifndef DRAGONBONES_DATA_PARSER_H
 #define DRAGONBONES_DATA_PARSER_H
 
-#include "../core/DragonBones.h"
-#include "../model/UserData.h"
-#include "../model/DragonBonesData.h"
-#include "../model/ArmatureData.h"
-#include "../model/CanvasData.h"
-#include "../model/ConstraintData.h"
-#include "../model/SkinData.h"
-#include "../model/DisplayData.h"
-#include "../model/BoundingBoxData.h"
-#include "../model/AnimationData.h"
-#include "../model/TextureAtlasData.h"
+#include <DragonBones/core/DragonBones.h>
+#include <DragonBones/model/UserData.h>
+#include <DragonBones/model/DragonBonesData.h>
+#include <DragonBones/model/ArmatureData.h>
+#include <DragonBones/model/CanvasData.h>
+#include <DragonBones/model/ConstraintData.h>
+#include <DragonBones/model/SkinData.h>
+#include <DragonBones/model/DisplayData.h>
+#include <DragonBones/model/BoundingBoxData.h>
+#include <DragonBones/model/AnimationData.h>
+#include <DragonBones/model/TextureAtlasData.h>
 
 DRAGONBONES_NAMESPACE_BEGIN
 /**

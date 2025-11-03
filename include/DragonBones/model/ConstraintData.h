@@ -27,8 +27,7 @@
 #ifndef DRAGONBONESCPP_CONSTRAINTDATA_H
 #define DRAGONBONESCPP_CONSTRAINTDATA_H
 
-#include "../core/BaseObject.h"
-
+#include <DragonBones/core/BaseObject.h>
 DRAGONBONES_NAMESPACE_BEGIN
 /**
  * @internal

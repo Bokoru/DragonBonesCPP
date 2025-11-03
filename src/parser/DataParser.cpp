@@ -1,5 +1,4 @@
-#include "DataParser.h"
-
+#include <DragonBones/parser/DataParser.h>
 DRAGONBONES_NAMESPACE_BEGIN
 
 const char* DataParser::DATA_VERSION_2_3 = "2.3";
