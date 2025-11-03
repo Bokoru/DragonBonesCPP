@@ -1,7 +1,7 @@
 # DragonBones C++ Runtime
 > This is a fork of https://github.com/DragonBones/DragonBonesCPP, with some extra changes.
 
-This fork reorganizes the project into a cmake project, and it also replaces rapidjson with simdjson.
+This fork reorganizes the project into a cmake project.
 
 Web-based editor at: https://bokoru.github.io/dragonbones.github.io/webEditor (The [original web-based editor](https://dragonbones.github.io//webEditor/) is chinese.)
 
