@@ -2,7 +2,6 @@ cmake_minimum_required (VERSION 3.20)
 project (DragonBones)
 
 # Compile Options
-option(DRAGONBONES_BACKEND_OPENGL "Compile the OpenGL backend" ON)
 option(DRAGONBONES_BACKEND_SFML "Compile the SFML backend" ON)
 
 # Third Party Packages
@@ -73,10 +72,6 @@ target_include_directories(DragonBones PUBLIC "include")
 target_link_libraries(DragonBones PUBLIC RapidJSON)
 
 # Compile backends
-if (DRAGONBONES_BACKEND_OPENGL)
-    add_subdirectory("backends/OpenGL")
-endif ()
-
 if (DRAGONBONES_BACKEND_SFML)
     add_subdirectory("backends/SFML")
 endif ()

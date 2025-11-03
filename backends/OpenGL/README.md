@@ -1,2 +1,0 @@
-# DragonBones OpenGL Backend
-

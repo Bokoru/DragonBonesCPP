@@ -8,7 +8,6 @@ Web-based editor at: https://bokoru.github.io/dragonbones.github.io/webEditor (T
 # Supported Backends
 The following backends are supported by this fork:
 
-* OpenGL
 * SFML 3.0.2
 
 I might add more in the future. If you want to add more yourself, feel free to do so!
