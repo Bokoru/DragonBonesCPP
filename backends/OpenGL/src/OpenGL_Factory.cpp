@@ -1,8 +1,3 @@
-/** @file OpenGL_Factory.cpp
- ** @author Piotr Krupa (piotrkrupa06@gmail.com)
- ** @license MIT License
- **/
-
 #include <DragonBones/OpenGL/OpenGL_Factory.h>
 
 #include <fstream>

@@ -79,10 +79,8 @@ public:
 
         for (auto& vert : vertices)
         {
-            min.x = std::min(min.x, vert.position.x);
-            min.y = std::min(min.y, vert.position.y);
-            max.x = std::max(max.x, vert.position.x);
-            max.y = std::max(max.y, vert.position.y);
+            min = glm::min(min, vert.position);
+            max = glm::max(max, vert.position);
         }
 
         glm::vec4 rect(min, max - min);
