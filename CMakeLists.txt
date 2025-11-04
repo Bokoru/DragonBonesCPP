@@ -66,10 +66,10 @@ add_library(DragonBones STATIC
 )
 
 # Specify include directories for dependant projects.
-target_include_directories(DragonBones PUBLIC "include")
+target_include_directories(DragonBones PUBLIC "include" ${RapidJSON_INCLUDE_DIRS})
 
 # Link against third party libraries.
-target_link_libraries(DragonBones PUBLIC RapidJSON)
+# target_link_libraries(DragonBones PUBLIC )
 
 # Compile backends
 if (DRAGONBONES_BACKEND_SFML)
