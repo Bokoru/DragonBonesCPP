@@ -10,6 +10,6 @@ https://web.archive.org/web/20211013162034if_/http://tool.egret-labs.org/DragonB
 The following backends are supported by this fork:
 
 * SFML 3.0.2
-* An example of what an OpenGL backend might look like can be found [here]https://github.com/Bokoru/H-game/tree/main/game/DragonBones).
+* An example of what an OpenGL backend might look like can be found [here](https://github.com/Bokoru/H-game/tree/main/game/DragonBones).
 
 I might add more in the future. If you want to add more yourself, feel free to do so!
