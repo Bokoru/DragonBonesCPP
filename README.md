@@ -3,7 +3,8 @@
 
 This fork reorganizes the project into a cmake project.
 
-Web-based editor at: https://bokoru.github.io/dragonbones.github.io/webEditor (The [original web-based editor](https://dragonbones.github.io//webEditor/) is chinese.)
+The editor can be found on the wayback machine:
+https://web.archive.org/web/20211013162034if_/http://tool.egret-labs.org/DragonBonesPro/DragonBonesPro-v5.6.3.exe
 
 # Supported Backends
 The following backends are supported by this fork:
